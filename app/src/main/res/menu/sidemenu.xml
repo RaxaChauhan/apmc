@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu1"
+        android:enabled="true"
+        android:icon="@drawable/house"
+        android:title="હોમ" />
+
+    <item android:title="જણસી ભાવ"
+        android:icon="@drawable/rice"
+        android:id="@+id/menu2"/>
+
+    <item android:title="શાકભાજી ભાવ"
+        android:icon="@drawable/salad"
+        android:id="@+id/menu3"/>
+
+    <item
+        android:id="@+id/menu4"
+        android:icon="@drawable/fruit"
+        android:title="ફળ ભાવ" />
+
+    <item android:title="જણસી આવક"
+        android:icon="@drawable/rice"
+        android:id="@+id/menu5"/>
+
+    <item android:title="શાકભાજી આવક"
+        android:icon="@drawable/salad"
+        android:id="@+id/menu6"/>
+
+    <item android:title="ફળ આવક"
+        android:icon="@drawable/fruit"
+        android:id="@+id/menu7"/>
+
+
+
+    <item
+        android:id="@+id/menu8"
+        android:icon="@drawable/discussion"
+        android:title="રીવ્યુ" />
+
+    <item
+        android:id="@+id/menu9"
+        android:icon="@drawable/web"
+        android:title="ઉપયોગી વેબસાઈટ" />
+
+
+</menu>
